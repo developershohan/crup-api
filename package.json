@@ -1,0 +1,15 @@
+{
+  "name": "apiforcrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crud-js": "json-server --watch db.json --port npm5051"
+  },
+  "author": "shohan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
